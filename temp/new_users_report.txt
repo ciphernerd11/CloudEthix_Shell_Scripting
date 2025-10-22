@@ -1,0 +1,3 @@
+ Users created in the last 72 hours: 
+--------------------------------------
+Report generated successfully
