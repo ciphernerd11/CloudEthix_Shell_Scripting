@@ -1,0 +1,8 @@
+System Resource Report
+Hostname      : localhost.localdomain
+Date & Time   : Wednesday 22 October 2025 03:17:36 PM IST
+CPU Usage     : 6.2%
+Memory Used   : 1120 MB / 1674 MB (66.93%)
+Disk Usage    : 34%
+
+Report saved to: /home/anand/shells_task/Scripts/version2/system_report.txt
